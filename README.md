@@ -1,7 +1,4 @@
 ## Introduction
-You are building an audit microservice for a shopping system.
-
-You are building an auditing microservice for an e-commerce platform.
 
 The service receives events from the Kafka topic `users`, which represents user registrations.
 The JSON data is structured as follows:
